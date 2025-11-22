@@ -1,0 +1,12 @@
+package com.example.biblioteca.domain.port;
+
+import com.example.biblioteca.domain.Prestamo;
+
+import java.util.List;
+import java.util.Optional;
+
+public interface PrestamoRepository {
+    Prestamo guardar(Prestamo prestamo);
+    Optional<Prestamo> buscarPorId(String id);
+    List<Prestamo> buscarPorUsuario(String usuarioId);
+}
