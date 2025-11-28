@@ -1,6 +1,6 @@
 package com.example.biblioteca.infrastructure.repository;
 
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Prestamo;
 import com.example.biblioteca.domain.repository.PrestamoRepository;
 import org.springframework.stereotype.Component;
 

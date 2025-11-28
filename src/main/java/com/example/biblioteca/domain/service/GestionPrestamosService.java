@@ -1,6 +1,8 @@
 package com.example.biblioteca.domain.service;
 
-import com.example.biblioteca.domain.*;
+import com.example.biblioteca.domain.entity.Libro;
+import com.example.biblioteca.domain.entity.Prestamo;
+import com.example.biblioteca.domain.enums.EstadoPrestamo;
 import com.example.biblioteca.domain.repository.LibroRepository;
 import com.example.biblioteca.domain.port.NotificacionBibliotecaPort;
 import com.example.biblioteca.domain.repository.PrestamoRepository;

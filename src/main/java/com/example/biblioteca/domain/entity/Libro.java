@@ -1,4 +1,4 @@
-package com.example.biblioteca.domain;
+package com.example.biblioteca.domain.entity;
 
 public class Libro {
     private final String isbn;

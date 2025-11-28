@@ -1,5 +1,6 @@
-package com.example.biblioteca.domain;
+package com.example.biblioteca.domain.entity;
 
+import com.example.biblioteca.domain.enums.EstadoPrestamo;
 import java.time.LocalDate;
 
 public class Prestamo {

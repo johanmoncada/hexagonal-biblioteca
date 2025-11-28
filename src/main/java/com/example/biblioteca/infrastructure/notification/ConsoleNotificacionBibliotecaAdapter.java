@@ -1,6 +1,6 @@
 package com.example.biblioteca.infrastructure.notification;
 
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Prestamo;
 import com.example.biblioteca.domain.port.NotificacionBibliotecaPort;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

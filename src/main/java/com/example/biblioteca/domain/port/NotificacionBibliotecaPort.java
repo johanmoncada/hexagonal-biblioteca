@@ -1,6 +1,6 @@
 package com.example.biblioteca.domain.port;
 
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Prestamo;
 
 public interface NotificacionBibliotecaPort {
     void notificarPrestamo(Prestamo prestamo);

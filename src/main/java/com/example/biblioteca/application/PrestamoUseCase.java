@@ -1,7 +1,7 @@
 package com.example.biblioteca.application;
 
-import com.example.biblioteca.domain.Libro;
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Libro;
+import com.example.biblioteca.domain.entity.Prestamo;
 import com.example.biblioteca.domain.service.GestionPrestamosService;
 
 public class PrestamoUseCase {

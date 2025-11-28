@@ -1,6 +1,6 @@
 package com.example.biblioteca.infrastructure.repository;
 
-import com.example.biblioteca.domain.Libro;
+import com.example.biblioteca.domain.entity.Libro;
 import com.example.biblioteca.domain.repository.LibroRepository;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Component;

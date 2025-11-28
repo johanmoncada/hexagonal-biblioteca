@@ -1,8 +1,8 @@
 package com.example.biblioteca.infrastructure.api;
 
 import com.example.biblioteca.application.PrestamoUseCase;
-import com.example.biblioteca.domain.Libro;
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Libro;
+import com.example.biblioteca.domain.entity.Prestamo;
 import com.example.biblioteca.infrastructure.api.dto.LibroResponse;
 import com.example.biblioteca.infrastructure.api.dto.NotificacionResponse;
 import com.example.biblioteca.infrastructure.api.dto.PrestamoRequest;

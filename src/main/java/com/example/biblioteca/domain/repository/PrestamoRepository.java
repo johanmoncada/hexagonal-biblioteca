@@ -1,6 +1,6 @@
 package com.example.biblioteca.domain.repository;
 
-import com.example.biblioteca.domain.Prestamo;
+import com.example.biblioteca.domain.entity.Prestamo;
 
 import java.util.List;
 import java.util.Optional;
