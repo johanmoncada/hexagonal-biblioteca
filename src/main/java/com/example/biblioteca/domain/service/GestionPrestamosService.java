@@ -1,9 +1,9 @@
 package com.example.biblioteca.domain.service;
 
 import com.example.biblioteca.domain.*;
-import com.example.biblioteca.domain.port.LibroRepository;
+import com.example.biblioteca.domain.repository.LibroRepository;
 import com.example.biblioteca.domain.port.NotificacionBibliotecaPort;
-import com.example.biblioteca.domain.port.PrestamoRepository;
+import com.example.biblioteca.domain.repository.PrestamoRepository;
 
 import java.time.LocalDate;
 import java.util.UUID;

@@ -1,9 +1,8 @@
 package com.example.biblioteca.infrastructure.repository;
 
 import com.example.biblioteca.domain.Libro;
-import com.example.biblioteca.domain.port.LibroRepository;
+import com.example.biblioteca.domain.repository.LibroRepository;
 import jakarta.annotation.PostConstruct;
-import java.util.List;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

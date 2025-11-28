@@ -1,4 +1,4 @@
-package com.example.biblioteca.domain.port;
+package com.example.biblioteca.domain.repository;
 
 import com.example.biblioteca.domain.Prestamo;
 

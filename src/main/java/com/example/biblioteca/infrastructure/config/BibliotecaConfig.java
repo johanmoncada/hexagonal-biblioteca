@@ -1,9 +1,9 @@
 package com.example.biblioteca.infrastructure.config;
 
 import com.example.biblioteca.application.PrestamoUseCase;
-import com.example.biblioteca.domain.port.LibroRepository;
+import com.example.biblioteca.domain.repository.LibroRepository;
 import com.example.biblioteca.domain.port.NotificacionBibliotecaPort;
-import com.example.biblioteca.domain.port.PrestamoRepository;
+import com.example.biblioteca.domain.repository.PrestamoRepository;
 import com.example.biblioteca.domain.service.GestionPrestamosService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

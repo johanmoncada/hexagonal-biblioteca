@@ -1,8 +1,7 @@
-package com.example.biblioteca.domain.port;
+package com.example.biblioteca.domain.repository;
 
 import com.example.biblioteca.domain.Libro;
 
-import java.util.List;
 import java.util.Optional;
 
 public interface LibroRepository {
